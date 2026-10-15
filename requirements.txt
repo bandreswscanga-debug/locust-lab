@@ -1,0 +1,4 @@
+flask==3.1.0
+mysql-connector-python==9.1.0
+locust==2.46.7
+gunicorn==23.0.0
